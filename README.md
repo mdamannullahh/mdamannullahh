@@ -102,3 +102,10 @@ I am a passionate Software Engineer and Tech Entrepreneur focused on architectin
 </p>
 
 *"The best way to predict the future is to invent it."*
+
+---
+
+<div align="center">
+  <p align="center">🛡️ <b>TOTAL VISITORS</b> 🛡️</p>
+  <img src="https://profile-counter.glitch.me/mdamannullahh/count.svg" alt="Visitor Count" />
+</div>
