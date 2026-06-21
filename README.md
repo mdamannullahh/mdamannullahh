@@ -105,7 +105,8 @@ I am a passionate Software Engineer and Tech Entrepreneur focused on architectin
 
 ---
 
-<div align="center">
-  <p>🛡️ <b>TOTAL VISITORS</b> 🛡️</p>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmdamannullahh&count_bg=%230077B5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false" alt="Visitor Count" />
-</div>
+<h2 align="center">👀 Total Profile Visitors</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Total%20Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
