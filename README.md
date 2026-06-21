@@ -108,5 +108,5 @@ I am a passionate Software Engineer and Tech Entrepreneur focused on architectin
 <h2 align="center">👀 Total Profile Visitors</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Total%20Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mdamannullahh&label=Total%20Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
