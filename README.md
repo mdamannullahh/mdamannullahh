@@ -57,9 +57,9 @@ To create impactful software that improves productivity, learning, and digital e
 ---
 
 
-## 📱 Flagship Product — MotiMate
+## 📱 Flagship Product — MotiMate ( A Product by Moti Group )
 
-### 🚀 MotiMate
+### 🚀 MotiMate ( A Product by Moti Group )
 
 AI-powered productivity ecosystem designed for students and professionals.
 
@@ -79,13 +79,13 @@ AI-powered productivity ecosystem designed for students and professionals.
 | Layer | Technology |
 |---------|---------|
 | Mobile App | Flutter |
-| Backend APIs | FastAPI |
+| Backend APIs | FastAPI | Python |
 | Frontend | React + TypeScript |
 | Database | PostgreSQL |
 | Authentication | JWT |
-| AI Integration | Gemini + OpenAI |
+| AI Integration | GrokAI |
 | Cloud | Google Cloud |
-| Admin Dashboard | React |
+| Admin Dashboard | React | JavaScript |
 
 ---
 
