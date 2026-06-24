@@ -144,28 +144,6 @@ AI-powered productivity ecosystem designed for students and professionals.
 ---
 
 
-## 🏅 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mdamannullahh&theme=algolia&no-frame=true&column=4&margin-w=15"/>
-
-</p>
-
----
-
-
-## 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mdamannullahh&label=Profile+Visitors&color=0ea5e9&style=for-the-badge"/>
-
-</p>
-
----
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
