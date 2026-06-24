@@ -29,7 +29,7 @@ I'm an Engineering Student and Full-Stack Developer passionate about building re
 
 - 🎓 Engineering Student
 - 🏢 Founder of Moti Group
-- 📱 Creator of MotiMate
+- 📱 Developer of MotiMate ( A Product by Moti Group )
 - 🤖 AI Product Builder
 - ☁️ Cloud & Backend Enthusiast
 - 🚀 Building Scalable Digital Products
